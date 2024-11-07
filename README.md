@@ -98,6 +98,7 @@
 
 <!-- START_STRUCTURE -->
 ```
+├── 404.html
 ├── Blog_page.html
 ├── CODE_OF_CONDUCT.md
 ├── Contributing.md
@@ -129,6 +130,7 @@
 ├── popup.jpg
 ├── popup.js
 ├── privacy.html
+├── profile.html
 ├── repo_structure.txt
 ├── repreviewfix.html
 ├── resources/
@@ -205,9 +207,12 @@
 │       ├── blog-p-4.webp
 │       ├── blog-p-5.webp
 │       └── blog-p-6.webp
+├── story.jpg
 ├── style.css
 ├── style1.css
 ├── testimonial.html
+├── testp.css
+├── testp.js
 ├── tooltips.html
 ├── tutorial.html
 ├── visi.css
